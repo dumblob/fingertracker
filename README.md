@@ -6,6 +6,8 @@ Tracker of finger/hand movements in 3D. Might serve as
 * 3D pointing device
 * ...
 
+![FingerTracker v0.0.1](design/model/201701202100-FingerTracker_v0.0.1.jpg)
+
 ## Features
 
 * small

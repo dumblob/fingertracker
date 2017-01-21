@@ -17,8 +17,8 @@ Tracker of finger/hand movements in 3D. Might serve as
 ### Done
 
 * design sketch
-    * [FingerTracker v0.0.1](design/model/201701202100-FIngerTracker_v0.0.1.jpg)
-    * [FingerTracker v0.0.1 inside](design/model/201701202100-FIngerTracker_v0.0.1-inside.jpg)
+    * [FingerTracker v0.0.1](design/model/201701202100-FingerTracker_v0.0.1.jpg)
+    * [FingerTracker v0.0.1 inside](design/model/201701202100-FingerTracker_v0.0.1-inside.jpg)
 
 ## Contributors
 
